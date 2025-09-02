@@ -2,6 +2,8 @@
 
 For å besvare disse oppgavene skal du skrive kode i *app.js*-filen. Du kan skrive ut svarene enten ved hjelp av console.log() eller document.write().
 
+For å se utskriften fra koden må du åpne *index.html* i en nettleser og åpne konsollen i "inspiser"- eller "undersøk"-vinduet.
+
 Om du kan det fra før kan du også bruke DOM og skrive ut svaret i et element (f.eks. div) under oppgaveteksten på hver oppgave.
 Ikke stress hvis du ikke skjønner hva jeg mener med dette, vi skal lære mer om dette senere
 
